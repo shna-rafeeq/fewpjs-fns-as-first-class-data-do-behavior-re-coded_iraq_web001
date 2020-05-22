@@ -30,5 +30,5 @@ else{
 function displayMessage(x){
   document.getElementById("greeting").innerText = x;
 }
-  let testContent = "TEST"
+  let testContent = "TEST";
   displayMessage(testContent);
